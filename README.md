@@ -1,6 +1,7 @@
 ### Hi there 👋.
+Please be patient. Still working on it.
 
-![Please be patient. Still working on it.](UnderDev.gif)
+![](UnderDev.gif)
 
 
 <!--
