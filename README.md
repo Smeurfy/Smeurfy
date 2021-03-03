@@ -1,13 +1,14 @@
+<!--
 ### Hi there 👋.
 Please be patient. Still working on it.
 
 ![](UnderDev.gif)
 
-
+-->
 ## Web Development and Apps
-- [Portfolio template](https://github.com/Smeurfy/Portfolio)
-- [Way2Go](https://github.com/Smeurfy/CCU-Way2Go) - Subway app
-- [Steam games and users](https://github.com/Smeurfy/VI) - Info vis
+- [Portfolio template](https://github.com/Smeurfy/Portfolio) - Bootstrap
+- [Way2Go](https://github.com/Smeurfy/CCU-Way2Go) - Subway app with React-native
+- [Steam games and users](https://github.com/Smeurfy/VI) - Info vis with D3.js
 
 ## Games
 - [Bouncing Ball](https://github.com/Smeurfy/Nokia-3310-Jam)  
